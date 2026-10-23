@@ -31,7 +31,7 @@ This automated pipeline ensures that any new, unseen match data can be passed di
 
 Before building the models, I explored the relationships between numerical features to understand which factors impact the game the most. 
 
-*Observation: Features like `kills`, `assists`, and `mvps` show a strong positive correlation with the target variable `points`, making them excellent predictors.*
+*Observation: Features like `kills`, `assists`, and `mvps`... show a strong positive correlation with the target variable `points`, making them excellent predictors.*
 
 ![Features Correlation](correlation.png)
 
